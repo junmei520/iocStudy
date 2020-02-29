@@ -1,2 +1,2 @@
-include ':app', ':annotation', ':ioc'
+include ':ioc'
 rootProject.name='AndroidNode'
